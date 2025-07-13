@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+
+
 # 🧠 Zero To Mastery PyTorch Deep Learning Bootcamp
 
 Welcome to my personal learning hub and code playground for the **"PyTorch for Deep Learning: Zero to Mastery"** bootcamp on Udemy, taught by [Andrei Neagoie](https://twitter.com/andreineagoie) and [Daniel Bourke](https://twitter.com/mrdbourke).
